@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leaxpm
 - 👀 I’m interested in ethical Hacking
-- 🌱 I’m currently in the road for a OSCP and OSEP
-- 💞️ I’m looking to collaborate on Bug bountys and Pentests
+- I’m currently in the road for a OSCP and OSEP
+- I’m looking to collaborate on Bug bountys and Pentests
 - 📫 How to reach me @AlejandroPrzM00
 
 <!---
